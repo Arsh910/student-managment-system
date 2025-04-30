@@ -20,12 +20,12 @@ Follow the steps below to set up and run the project locally.
 
 ```bash
 # 1. Activate virtual environment
-# If it already exists:
 dbms/Scripts/activate
 
-# Or, create and activate a new one
+# Or, create and activate a new one (don't include Scripts , Lib , include file in repo)
 # Windows
 python -m venv venv
+then activate it
 venv\Scripts\activate
 
 # Mac/Linux
