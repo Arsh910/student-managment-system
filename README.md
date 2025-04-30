@@ -22,7 +22,7 @@ Follow the steps below to set up and run the project locally.
 # 1. Activate virtual environment
 dbms/Scripts/activate
 
-# Or, create and activate a new one (don't include Scripts , Lib , include file in repo)
+# Or, create and activate a new one (don't include Scripts folder in repo)
 # Windows
 python -m venv venv
 then activate it
